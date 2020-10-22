@@ -7,3 +7,4 @@
 - ✨ 喜欢毛绒绒OwO
 
 ![Sinapole's github stats](https://github-readme-stats.vercel.app/api?username=Sinapole&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinapole&layout=compact)
