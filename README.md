@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Acatine</h1>
 
 <p align="left"> <a href="https://twitter.com/fetarute" target="blank"><img src="https://img.shields.io/twitter/follow/fetarute?logo=twitter&style=for-the-badge" alt="fetarute" /></a> </p>
-<p align="left"> <a href="https://twitter.com/sinapol_dora" target="blank"><img src="https://img.shields.io/twitter/follow/fetarute?logo=twitter&style=for-the-badge" alt="sinapole_dora" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sinapole_dora" target="blank"><img src="https://img.shields.io/twitter/follow/sinapole_dora?logo=twitter&style=for-the-badge" alt="sinapole_dora" /></a> </p>
 
 - 🔭 I’m currently working on [FesGen](https://github.com/Team-Cenlinc/FesGen/tree/main)
 
