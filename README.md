@@ -1,17 +1,3 @@
 <h1 align="center">Hi 👋, I'm Acatine</h1>
 
-<p align="left"> <a href="https://twitter.com/fetarute" target="blank"><img src="https://img.shields.io/twitter/follow/fetarute?logo=twitter&style=for-the-badge" alt="fetarute" /></a> </p>
-<p align="left"> <a href="https://twitter.com/sinapole_dora" target="blank"><img src="https://img.shields.io/twitter/follow/sinapole_dora?logo=twitter&style=for-the-badge" alt="sinapole_dora" /></a> </p>
-
-- 🔭 I’m currently working on [FesGen](https://github.com/Team-Cenlinc/FesGen/tree/main)
-
-- 🌱 I’m currently learning **A lot of stuff**
-
-- 📫 How to reach me **sinapole@fetarute.org**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fetarute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fetarute" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sinapole&show_icons=true&count-private=true&bg_color=29B3A3,368AA6,4A65B5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&locale=cn" /></p>
+![Metrics](https://metrics.lecoq.io/Sinapole?template=classic&base.indepth=true&languages=1&code=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true)
